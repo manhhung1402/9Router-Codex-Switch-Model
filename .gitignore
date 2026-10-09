@@ -1,0 +1,8 @@
+# Build output
+*.exe
+bin/
+obj/
+
+# Local config / backups
+*.bak-*
+*.log
